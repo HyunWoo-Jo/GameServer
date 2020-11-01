@@ -1,0 +1,2 @@
+D:\Project\GameServer\Multy\Debug\Thread.exe
+D:\Project\GameServer\Multy\Debug\Thread.pdb
