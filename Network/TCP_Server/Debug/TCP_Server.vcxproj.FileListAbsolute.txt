@@ -1,0 +1,3 @@
+D:\Project\GameServer\Network\Debug\TCP_Server.pdb
+D:\Project\GameServer\Network\TCP_Server\Debug\TCP_Server.exe
+D:\Project\GameServer\Network\TCP_Server\Debug\TCP_Server.pdb
